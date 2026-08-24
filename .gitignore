@@ -20,6 +20,9 @@ Thumbs.db
 .vscode/
 .idea/
 
+# Raw uploaded source images (optimized copies live in public/)
+/images/
+
 # Logs
 *.log
 npm-debug.log*

@@ -19,6 +19,7 @@ out/
 Thumbs.db
 .vscode/
 .idea/
+.claude/
 
 # Raw uploaded source images (optimized copies live in public/)
 /images/
